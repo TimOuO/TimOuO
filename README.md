@@ -13,7 +13,7 @@
 
 ## Projects
 
-- **[discord-bot](https://github.com/TimOuO/discord-bot)**: An idle RPG Discord bot. About 11k lines of TypeScript with 210+ tests, automatic database backups with failure alerts, and a Monte Carlo simulation used as a game-balance regression check.
+- **[discord-bot](https://github.com/TimOuO/discord-bot)**: An idle RPG Discord bot with 210+ tests, automatic database backups with failure alerts, and a Monte Carlo simulation used as a game-balance regression check.
 - **Trip Planner PWA** (private repo): A shared trip-planning app, used on 5 real trips. GitHub Actions runs unit tests and E2E tests on the Firebase Emulator, and deploys only when all tests pass. The repo is private because it contains personal expense data. I can demo it in an interview.
 
 ## Contact
